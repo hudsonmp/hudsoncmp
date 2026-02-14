@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hudsonmp.github.io/sitemap.xml
+Sitemap: https://hudsonmp.github.io/hudsoncmp/sitemap.xml
