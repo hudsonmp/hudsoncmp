@@ -7,63 +7,63 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/hudsoncmp/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "publications",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of projects and hackathons.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-proofs",
           title: "proofs",
           description: "Mathematical proofs and derivations.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/proofs/";
+            window.location.href = "/proofs/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "many of these repositories have since been deprecated.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-teaching-amp-talks",
           title: "teaching &amp; talks",
           description: "Presentations, talks, and podcasts.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "Hudson Mitchell-Pullman&#39;s CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-library",
           title: "library",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/hudsoncmp/library/";
+            window.location.href = "/library/";
           },
         },{id: "post-who-was-i-part-i",
         
@@ -73,69 +73,69 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/hudsoncmp/blog/2026/first-post/";
+            window.location.href = "/blog/2026/first-post/";
           
         },
       },{id: "books-architects-of-intelligence",
           title: 'Architects of Intelligence',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/architects_of_intelligence/";
+              window.location.href = "/books/architects_of_intelligence/";
             },},{id: "books-einstein-his-life-and-universe",
           title: 'Einstein: His Life and Universe',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/einstein/";
+              window.location.href = "/books/einstein/";
             },},{id: "books-elon-musk",
           title: 'Elon Musk',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/musk/";
+              window.location.href = "/books/musk/";
             },},{id: "books-the-alchemist",
           title: 'The Alchemist',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/the_alchemist/";
+              window.location.href = "/books/the_alchemist/";
             },},{id: "books-the-worlds-i-see",
           title: 'The Worlds I See',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/the_worlds_i_see/";
+              window.location.href = "/books/the_worlds_i_see/";
             },},{id: "books-zero-to-one",
           title: 'Zero to One',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/hudsoncmp/books/zero_to_one/";
+              window.location.href = "/books/zero_to_one/";
             },},{id: "hackathons-arxai",
           title: 'arxai',
           description: "deep research tool that launches parallel agents to index your existing research and surface insights. built at sdx 10/2025.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/arxai/";
+              window.location.href = "/hackathons/arxai/";
             },},{id: "hackathons-arxlearn",
           title: 'arxlearn',
           description: "accelerated learning tool that distills complex topics to essentials, models what you know, and generates a personalized dependency-ordered learning path.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/arxlearn/";
+              window.location.href = "/hackathons/arxlearn/";
             },},{id: "hackathons-firstintel",
           title: 'firstintel',
           description: "computer vision system using fine-tuned yolo-v8 to track people entering/exiting buildings and automatically relay count data to 911 via twilio so first responders know exactly who&#39;s inside.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/firstintel/";
+              window.location.href = "/hackathons/firstintel/";
             },},{id: "hackathons-realtime-math",
           title: 'realtime-math',
           description: "realtime math tutor on ipad using cognitive task analysis via pilot studies — handwritten math recognition and latex conversion.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/realtime-math/";
+              window.location.href = "/hackathons/realtime-math/";
             },},{id: "hackathons-syntra",
           title: 'syntra',
           description: "cursor for design — ai-powered figma workflows. cerebral valley finalist.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/syntra/";
+              window.location.href = "/hackathons/syntra/";
             },},{id: "hackathons-turingvault",
           title: 'turingvault',
           description: "ai-powered security analysis for git repos — scans vibe-coded projects for vulnerabilities using research-backed static analysis and gives actionable fix suggestions.",
           section: "Hackathons",handler: () => {
-              window.location.href = "/hudsoncmp/hackathons/turingvault/";
+              window.location.href = "/hackathons/turingvault/";
             },},{id: "news-conducted-60-person-pilot-study-with-ap-computer-science-students",
           title: 'Conducted 60-person pilot study with AP Computer Science Students.',
           description: "",
@@ -149,18 +149,18 @@ ninja.data = [{
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/hudsoncmp/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/hudsoncmp/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/hudsoncmp/assets/pdf/cv-current.pdf", "_blank");
+          window.open("/assets/pdf/cv-current.pdf", "_blank");
         },
       },{
         id: 'social-email',
