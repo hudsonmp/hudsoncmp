@@ -1,14 +1,28 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hudsonmp
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - hudsonmp/hudsoncmp
+  - hudsonmp/ucsd-doc-access
+  - hudsonmp/req-eng-intervention
+  - hudsonmp/test-case-requirement-engineering-intervention
+  - hudsonmp/hhhh
+  - hudsonmp/its-algebra
+  - hudsonmp/arxai
+  - hudsonmp/syntra67
+  - hudsonmp/realtime-math
+  - hudsonmp/turingvault
+  - hudsonmp/bobadrops
+  - hudsonmp/henryaitraining
+  - hudsonmp/prez-challenge
+  - hudsonmp/auto-message-email
+  - hudsonmp/personal-site
+  - hudsonmp/events
+  - hudsonmp/hallpass
+  - hudsonmp/ti-84-notes
+  - hudsonmp/schoolassess
+  - hudsonmp/patriotsearch
+  - hudsonmp/piazza-sucks-u6
+  - hudsonmp/4-14-25

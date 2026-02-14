@@ -2,18 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "[Patrick Henry High School](http://patrickhenryhs.net/), [UC San Diego](https://ucsd.edu), [Art of Problem Solving](https://artofproblemsolving.com)"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hudson-profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>San Diego, California</p>
+    <p>hudsonmitchellpullman [at] gmail [dot] com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a 16-year-old high school student in San Diego researching **human-AI interaction** within **STEM education**. I also take math, CS, and cognitive science (my favorite) courses at UCSD. My interests lie in the use of **intelligent tutoring systems** and pedagogical AI tutors to support advanced problem solving, critical thinking, and end-user programming. I am mentored by [Annapurna Vadaparty](https://apvadaparty.github.io/) and [Qianou Ma](https://qianouma.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've received grants from [Foundry10](https://www.foundry10.org/) and the [Lift Off Grant](https://www.liftoffgrant.com/) to support my research. I'm also an [Algoverse](https://algoverse.com) AI Research Fellow and studied proof-based calculus and differential equations through the [Art of Problem Solving](https://artofproblemsolving.com).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside research, I founded the [Henry AI Club](https://henryai.org) at Patrick Henry High School, where I've inroduced an intimate cohort of students to fundamental AI concepts and have competed in high school hackathons together. I am the youngest member of [SDx @UCSD](https://sdxucsd.com), UCSD's largest AI builder community that has partnered with Y Combinator, Anthropic, and Perplexity. I am also a district representitve for [SWEAR](https://swearcommittee.wixsite.com/sdusd), where I advocate and speak about depression and Autism Spectrum Disorder (ASD).

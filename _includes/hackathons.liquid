@@ -1,0 +1,29 @@
+<div class="col">
+  <a href="{% if hackathon.redirect %}{{ hackathon.redirect }}{% else %}{{ hackathon.url | relative_url }}{% endif %}">
+    <div class="card h-100 hoverable">
+      {% if hackathon.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=hackathon.img
+          sizes = "250px"
+          alt="hackathon thumbnail"
+          class="card-img-top"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ hackathon.title }}</h2>
+        <p class="card-text">{{ hackathon.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if hackathon.github %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ hackathon.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
