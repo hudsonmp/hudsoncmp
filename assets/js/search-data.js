@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/library/";
           },
-        },{id: "post-who-was-i-part-i",
+        },{id: "post-why-do-we-learn-stem",
+        
+          title: "Why do we Learn STEM?",
+        
+        description: "My thoughts on what we&#39;re getting wrong about STEM education.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/who-was-i-part-ii/";
+          
+        },
+      },{id: "post-who-was-i-part-i",
         
           title: "Who Was I (part I)?",
         
