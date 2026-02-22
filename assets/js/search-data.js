@@ -73,7 +73,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/who-was-i-part-ii/";
+            window.location.href = "/blog/2026/why-do-we-learn-stem/";
           
         },
       },{id: "post-who-was-i-part-i",
